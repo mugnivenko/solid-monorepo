@@ -1,0 +1,7 @@
+{
+  "workspace": ["./lib", "./app"],
+  "nodeModulesDir": "auto",
+  "tasks": {
+    "clean:full": "rm -fr node_modules & rm -fr **/node_modules"
+  }
+}
